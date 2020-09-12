@@ -12,7 +12,7 @@
 ## Introduction
 
 So far lessons have only contained written content on specific topics. All you
-needed to do was read through each lesson and continue on. This lesson, however,
+needed to do was read through each lesson and https://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-git-getting-and-adding-to-code/fswd-prework-2-01-fswd-prework-git-getting-and-adding-to-code-git-basics-labcontinue on. This lesson, however,
 is considered a _lab_. Labs are exercises that have some written content to
 guide you, but also contain _tests_ that must be passed in order to complete
 the lesson.
